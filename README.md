@@ -1,10 +1,6 @@
 
 # cpfswin.bat - CPF Script for Windows
 
-## Descrição
-
-O script `cpfswin.bat` permite gerar números de CPFs válidos ou inválidos, validar uma lista de CPFs, e realizar diversas operações relacionadas, como a geração de CPFs com formatação específica ou a validação com detalhes adicionais.
-
 ## Modo de uso
 
 ```bash
